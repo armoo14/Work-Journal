@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+
+# Local user data
+work_journal_config.json
+work_journal_log.csv
+work_journal_export.csv
+
+# Machine-specific and generated files
+*.lnk
+*.zip
+Thumbs.db
+.DS_Store
+
+# Editor settings
+.idea/
+.vscode/
