@@ -41,10 +41,6 @@ Both files are excluded from Git so personal activity data is not published.
 The local `Work Journal.lnk` shortcut is also excluded because it contains a
 machine-specific path.
 
-## AI assistance
-
-This project was developed with assistance from OpenAI Codex. The code and visual assets were reviewed and tested by the project maintainer.
-
 ## License
 
 MIT
